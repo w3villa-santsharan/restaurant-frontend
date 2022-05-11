@@ -1,0 +1,45 @@
+.time-picker-width {
+    /* width: 25%; */
+    /* border: 1px solid black; */
+    margin: 2px;
+}
+
+.fiter-name {
+    width: 15%;
+}
+
+.filter-day-time{
+    /* width: 50%; */
+}
+
+.new-section {
+    box-sizing: border-box;
+    width: 200%;
+    margin-top: -10%;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 430px; 
+    border: 1px solid black;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .days-align{
+    padding-left: 15%;
+  }
+  
+  .name-input {
+      width: 100%;
+  }
+
+  .expand-btn {
+      padding-left: 54%;
+  }
